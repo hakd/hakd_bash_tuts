@@ -44,7 +44,7 @@
 
 - What is it?
 - She Bang #! / basics
-- string
+  - string
 - variables
 - flow control
   - conditionals
