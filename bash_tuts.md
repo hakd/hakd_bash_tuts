@@ -1,4 +1,4 @@
-# From Head **Basher** to ***Bash*** Master 
+# From Head **Basher** to ***Bash*** Master
 
 ## Section #1 - The File System
 
@@ -14,6 +14,7 @@
   - sudo
   - groups
   - owner
+- filesystem hierarchy standard and alternatives
 
 ## Section #2 - STDIO
 
@@ -21,7 +22,7 @@
 - Redirecting Output
 - Pipes "|"
 
-## Section #3 - Arithmetic 
+## Section #3 - Arithmetic
 
 - Math Operators
 - bc
